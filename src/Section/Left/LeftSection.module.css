@@ -1,0 +1,27 @@
+.LeftSection{
+    display: flex;
+    flex: 1;
+    background-color: aqua;
+    height: 100vh;
+    flex-direction: column;
+    
+
+}
+.leftInput{
+    height: 1rem;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    border-radius: none;
+    background-color: transparent;
+}
+.leftDiv{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    height: 5rem;
+    border: 2px solid red;
+    align-items: center;
+    margin: 1rem;
+}

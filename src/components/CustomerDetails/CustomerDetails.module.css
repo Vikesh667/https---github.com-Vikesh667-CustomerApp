@@ -1,0 +1,10 @@
+.customer{
+    display: flex;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 1rem;
+    column-gap: 10px;
+
+}
+
+
